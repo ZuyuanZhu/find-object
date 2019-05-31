@@ -3,6 +3,8 @@ Linux: [![Build Status](https://travis-ci.org/introlab/find-object.svg?branch=ma
 
 Find-Object project, visit the [home page](http://introlab.github.io/find-object/) for more information.
 
+ROS page: http://wiki.ros.org/find_object_2d
+
 ## find_object_2d (ROS package)
 
 ### Install
